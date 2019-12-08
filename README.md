@@ -10,3 +10,9 @@ The sample data could be found in the directory ``load_sql`` and could use the f
 source create.sql
 source load.sql
 ```
+
+
+The index page is ```starter.html``` which looks like:
+
+
+
