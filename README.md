@@ -14,5 +14,5 @@ source load.sql
 
 The index page is ```starter.html``` which looks like:
 
-
+![Test Image 1](3DTest.png)
 
